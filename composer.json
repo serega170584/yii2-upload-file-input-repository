@@ -1,5 +1,6 @@
 {
     "name": "serega170584/yii2-upload-file-input-repository",
+    "version": "1.0.0",
     "description": "This extension attach and upload file to form just clicking browse button: Uploaded file is in db table. We may attach file to any model by file id:   ",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],

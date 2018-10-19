@@ -16,10 +16,11 @@
     },
     "autoload": {
         "psr-4": {
-            "serega170584\\file\\": "1.0.0"
+            "serega170584\\file\\": ""
         }
     },
     "extra": {
         "bootstrap": "serega170584\\file\\Bootstrap"
-    }
+    },
+    "minimum-stability": "stable"	
 }

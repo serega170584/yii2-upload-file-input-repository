@@ -1,0 +1,25 @@
+{
+    "name": "serega170584/yii2-upload-file-input-repository",
+    "description": "This extension attach and upload file to form just clicking browse button: Uploaded file is in db table. We may attach file to any model by file id:   ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Krivobokov Sergey",
+            "email": "serega170584@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "kartik-v/yii2-widget-fileinput": "~1.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "serega170584\\file\\": "1.0.0"
+        }
+    },
+    "extra": {
+        "bootstrap": "serega170584\\file\\Bootstrap"
+    }
+}
